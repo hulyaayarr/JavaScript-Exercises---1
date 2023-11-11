@@ -1,0 +1,22 @@
+*{
+    color: #FFF;
+}
+h2{
+    background-color: rgba(0, 0, 0, 0.3)
+}
+h1{
+    font-weight: bolder;
+}
+.bg{
+    
+    position: relative;
+    padding: 15rem 0;
+    background-image: url('/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
